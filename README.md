@@ -16,13 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IIBlackCode&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=IIBlackCode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![IIBlackCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBlackCode&show_icons=true&theme=radical)
-
-![IIBlackCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBlackCode&show_icons=true&theme=juicyfresh)
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-[![IIBlackCode's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IIBlackCode&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/IIBlackCode)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IIBlackCode&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
