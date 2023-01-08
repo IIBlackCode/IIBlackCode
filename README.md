@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### [Gitblog URL](https://iiblackcode.github.io/)
+
 <!--
 **IIBlackCode/IIBlackCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +23,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBlackCode&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIBlackCode&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+
 # 포트폴리오
 ![portfolio](./portfolio/01.png)
 ![portfolio](./portfolio/02.png)
@@ -33,3 +38,5 @@ Here are some ideas to get you started:
 ![portfolio](./portfolio/08.png)
 ![portfolio](./portfolio/09.png)
 ![portfolio](./portfolio/10.png)
+
+---
