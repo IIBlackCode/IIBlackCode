@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![hitcounter](https://github.com/gjbae1212/hit-counter)
 ### [Gitblog URL](https://iiblackcode.github.io/)
 
 <!--
