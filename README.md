@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIBlackCode&count_bg=%23DBC117&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### [Gitblog URL](https://iiblackcode.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIBlackCode&count_bg=%23DBC117&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **IIBlackCode/IIBlackCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
